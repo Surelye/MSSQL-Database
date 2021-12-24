@@ -102,7 +102,6 @@ DROP VIEW order_statistics_v
 SELECT *
 FROM order_statistics_v
 
-
 CREATE TRIGGER total_spent_insert
 ON order_statistics_v
 INSTEAD OF INSERT
