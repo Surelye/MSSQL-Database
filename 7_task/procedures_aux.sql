@@ -10,7 +10,7 @@ DROP TABLE Employee
 DROP TABLE Position
 DROP TABLE OrderType
 DROP TABLE [Type]
-
+-- dropping
 CREATE TABLE [Order]
 (
     order_id int NOT NULL,
